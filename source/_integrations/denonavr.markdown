@@ -51,6 +51,7 @@ Known supported devices:
 - Denon AVR-S720W
 - Denon AVR-S750H
 - Denon DN-500AV
+- Marantz AV-7005 (integration works, controls not tested yet)
 - Marantz M-CR510
 - Marantz M-CR511
 - Marantz M-CR603
